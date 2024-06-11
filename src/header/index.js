@@ -26,9 +26,9 @@ const Header = () => {
             >
               About
             </HashLink>
-            <Link to={"/services"} className="hover:text-red-700 p-3 text-base">
+            <HashLink to={"/#services"} className="hover:text-red-700 p-3 text-base">
               Services
-            </Link>
+            </HashLink>
           </main>
         </div>
         <HashLink to={"/#footer"}><div className="justify-center self-stretch px-10 py-5 my-auto text-base font-semibold leading-5 text-center text-white capitalize bg-violet-700 rounded max-md:px-5 hover:bg-red-700">

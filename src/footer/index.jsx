@@ -1,4 +1,6 @@
 import React from 'react'
+import { GrInstagram } from "react-icons/gr";
+import { GrLinkedin } from "react-icons/gr";
 
 const Footer = () => {
   return (
@@ -138,13 +140,10 @@ const Footer = () => {
             </div>
             <div className="flex gap-4 mt-9 text-sm leading-4 text-violet-700 whitespace-nowrap max-md:flex-wrap max-md:pr-5 max-md:max-w-full">
               <div className="justify-center items-start px-5 py-4 rounded-3xl bg-stone-300 bg-opacity-30 max-md:px-5">
-                
+              <GrInstagram />
               </div>
               <div className="justify-center px-5 py-4 rounded-3xl bg-stone-300 bg-opacity-30">
-                
-              </div>
-              <div className="justify-center px-5 py-4 rounded-3xl bg-stone-300 bg-opacity-30">
-                
+              <GrLinkedin />
               </div>
             </div>
             <div className="flex gap-3 mt-11 text-base font-medium leading-7 text-gray-700 max-md:flex-wrap max-md:mt-10">
