@@ -151,7 +151,7 @@ const Home = () => {
                         <img
                           loading="lazy"
                           src="https://cdn.builder.io/api/v1/image/assets/TEMP/312c8ca0753619453076d2b40875612096bfaf73643d64849ade5ec8e889de10?apiKey=ad090e654a114eb4b43d2625c6bd6624&"
-                          className="w-full border-2 border-black border-solid aspect-[1.19] stroke-[2px] stroke-black max-md:mt-10"
+                          className="w-full aspect-[1.19] stroke-[2px] stroke-black max-md:mt-10"
                         />
                       </div>
                       <div className="flex flex-col ml-5 w-[44%] max-md:ml-0 max-md:w-full">
