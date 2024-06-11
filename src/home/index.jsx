@@ -37,6 +37,7 @@ const Home = () => {
                           loading="lazy"
                           srcSet="https://cdn.builder.io/api/v1/image/assets/TEMP/ebd5e0b2e4ef84b4e6b7f0babbc54916f537ac65937473d5a2378b3e92275a39?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/ebd5e0b2e4ef84b4e6b7f0babbc54916f537ac65937473d5a2378b3e92275a39?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/ebd5e0b2e4ef84b4e6b7f0babbc54916f537ac65937473d5a2378b3e92275a39?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/ebd5e0b2e4ef84b4e6b7f0babbc54916f537ac65937473d5a2378b3e92275a39?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/ebd5e0b2e4ef84b4e6b7f0babbc54916f537ac65937473d5a2378b3e92275a39?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/ebd5e0b2e4ef84b4e6b7f0babbc54916f537ac65937473d5a2378b3e92275a39?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/ebd5e0b2e4ef84b4e6b7f0babbc54916f537ac65937473d5a2378b3e92275a39?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/ebd5e0b2e4ef84b4e6b7f0babbc54916f537ac65937473d5a2378b3e92275a39?apiKey=ad090e654a114eb4b43d2625c6bd6624&"
                           className="shrink-0 self-start w-10 aspect-square"
+                          alt='img'
                         />
                       </div>
                     </div>
@@ -44,11 +45,13 @@ const Home = () => {
                       loading="lazy"
                       srcSet="https://cdn.builder.io/api/v1/image/assets/TEMP/cf5e2ea13bef0467621bcdfb67e24db06baa0a3d7a795cc97568ff6ea9fc9046?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/cf5e2ea13bef0467621bcdfb67e24db06baa0a3d7a795cc97568ff6ea9fc9046?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/cf5e2ea13bef0467621bcdfb67e24db06baa0a3d7a795cc97568ff6ea9fc9046?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/cf5e2ea13bef0467621bcdfb67e24db06baa0a3d7a795cc97568ff6ea9fc9046?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/cf5e2ea13bef0467621bcdfb67e24db06baa0a3d7a795cc97568ff6ea9fc9046?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/cf5e2ea13bef0467621bcdfb67e24db06baa0a3d7a795cc97568ff6ea9fc9046?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/cf5e2ea13bef0467621bcdfb67e24db06baa0a3d7a795cc97568ff6ea9fc9046?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/cf5e2ea13bef0467621bcdfb67e24db06baa0a3d7a795cc97568ff6ea9fc9046?apiKey=ad090e654a114eb4b43d2625c6bd6624&"
                       className="mt-14 aspect-square w-[30px] max-md:mt-10"
+                      alt="img"
                     />
                     <img
                       loading="lazy"
                       srcSet="https://cdn.builder.io/api/v1/image/assets/TEMP/6d852893e4be19833250def3dddc1ad0409784296772b5462abb73ac97cfbf1a?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/6d852893e4be19833250def3dddc1ad0409784296772b5462abb73ac97cfbf1a?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/6d852893e4be19833250def3dddc1ad0409784296772b5462abb73ac97cfbf1a?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/6d852893e4be19833250def3dddc1ad0409784296772b5462abb73ac97cfbf1a?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/6d852893e4be19833250def3dddc1ad0409784296772b5462abb73ac97cfbf1a?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/6d852893e4be19833250def3dddc1ad0409784296772b5462abb73ac97cfbf1a?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/6d852893e4be19833250def3dddc1ad0409784296772b5462abb73ac97cfbf1a?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/6d852893e4be19833250def3dddc1ad0409784296772b5462abb73ac97cfbf1a?apiKey=ad090e654a114eb4b43d2625c6bd6624&"
                       className="self-center mt-12 aspect-[1.1] w-[22px] max-md:mt-10"
+                      alt="img"
                     />
                   </div>
                 </div>
@@ -57,6 +60,7 @@ const Home = () => {
                     loading="lazy"
                     srcSet="https://cdn.builder.io/api/v1/image/assets/TEMP/105aa147bbc5c1828c716f24079f2b7d3576a1832f9322ddf75d7751b717cc7e?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/105aa147bbc5c1828c716f24079f2b7d3576a1832f9322ddf75d7751b717cc7e?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/105aa147bbc5c1828c716f24079f2b7d3576a1832f9322ddf75d7751b717cc7e?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/105aa147bbc5c1828c716f24079f2b7d3576a1832f9322ddf75d7751b717cc7e?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/105aa147bbc5c1828c716f24079f2b7d3576a1832f9322ddf75d7751b717cc7e?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/105aa147bbc5c1828c716f24079f2b7d3576a1832f9322ddf75d7751b717cc7e?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/105aa147bbc5c1828c716f24079f2b7d3576a1832f9322ddf75d7751b717cc7e?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/105aa147bbc5c1828c716f24079f2b7d3576a1832f9322ddf75d7751b717cc7e?apiKey=ad090e654a114eb4b43d2625c6bd6624&"
                     className="w-full aspect-[0.75] max-md:mt-10 max-md:max-w-full"
+                    alt="img"
                   />
                 </div>
               </div>
@@ -79,6 +83,7 @@ const Home = () => {
                   loading="lazy"
                   srcSet="https://cdn.builder.io/api/v1/image/assets/TEMP/6b3503115099db1a44edd4ad7d3ce38a0579c5dcd2ff4c5664cb899245923756?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=100 100w, https://cdn.builder.io/api/v1/image/assets/TEMP/6b3503115099db1a44edd4ad7d3ce38a0579c5dcd2ff4c5664cb899245923756?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=200 200w, https://cdn.builder.io/api/v1/image/assets/TEMP/6b3503115099db1a44edd4ad7d3ce38a0579c5dcd2ff4c5664cb899245923756?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=400 400w, https://cdn.builder.io/api/v1/image/assets/TEMP/6b3503115099db1a44edd4ad7d3ce38a0579c5dcd2ff4c5664cb899245923756?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=800 800w, https://cdn.builder.io/api/v1/image/assets/TEMP/6b3503115099db1a44edd4ad7d3ce38a0579c5dcd2ff4c5664cb899245923756?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets/TEMP/6b3503115099db1a44edd4ad7d3ce38a0579c5dcd2ff4c5664cb899245923756?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets/TEMP/6b3503115099db1a44edd4ad7d3ce38a0579c5dcd2ff4c5664cb899245923756?apiKey=ad090e654a114eb4b43d2625c6bd6624&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets/TEMP/6b3503115099db1a44edd4ad7d3ce38a0579c5dcd2ff4c5664cb899245923756?apiKey=ad090e654a114eb4b43d2625c6bd6624&"
                   className="w-full aspect-[2.44] md:max-w-full"
+                  alt="img"
                 />
               </div>
             </div>
@@ -120,6 +125,7 @@ const Home = () => {
                       loading="lazy"
                       src="https://cdn.builder.io/api/v1/image/assets/TEMP/224c01f548a9a14479f5e72dfda8e73c34c1e2161caf11bc6c8c63aaddef81d3?apiKey=ad090e654a114eb4b43d2625c6bd6624&"
                       className="grow w-full aspect-[0.98] max-md:mt-6 max-md:max-w-full"
+                      alt="img"
                     />
                   </div>
                 </div>
@@ -168,6 +174,7 @@ const Home = () => {
                           src="https://cdn.builder.io/api/v1/image/assets/TEMP/312c8ca0753619453076d2b40875612096bfaf73643d64849ade5ec8e889de10?apiKey=ad090e654a114eb4b43d2625c6bd6624&"
                           className="w-full aspect-[1.19] stroke-[2px] stroke-black max-md:mt-10"
                           style={{ display: "none" }} // Hide image on mobile view
+                          alt="img"
                         />
                       </div>
                       <div

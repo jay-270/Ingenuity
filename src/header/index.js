@@ -1,6 +1,4 @@
 import React from "react";
-
-import { Link } from "react-router-dom";
 import { HashLink } from "react-router-hash-link";
 
 const Header = () => {
@@ -11,6 +9,7 @@ const Header = () => {
           loading="lazy"
           src="https://cdn.builder.io/api/v1/image/assets/TEMP/1a93cee327670ebef01d25d9ea06b7bebd0da4406f6dd616c6e902a7f5138f97?apiKey=ad090e654a114eb4b43d2625c6bd6624&"
           className="shrink-0 self-stretch max-w-full aspect-[2.17] w-[202px]"
+          alt="img"
         />
         <div className="flex gap-5 self-stretch my-auto text-base font-medium leading-6 text-black max-md:flex-wrap max-md:max-w-full">
           <main>
